@@ -1,6 +1,8 @@
-const express = require('express')
-const morgan = require('morgan')
-const { validateCheckout } = require('./middlewares/checkout')
+import express from 'express'
+import morgan from 'morgan'
+import fetch from 'node-fetch'
+
+import { validateCheckout } from './middlewares/checkout.js'
 
 const app = express()
 const port = process.env.PORT || 3000
@@ -10,8 +12,20 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 // POST route for checkout
-app.post('/api/v1/checkout', validateCheckout, (req, res) => {
-  res.status(200).json({ message: 'hello' })
+app.post('/api/v1/checkout', validateCheckout, async (req, res) => {
+  const url = 'https://staging.api.scalapay.com/v2/orders'
+  const options = {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: 'Bearer qhtfs87hjnc12kkos',
+    },
+    body: JSON.stringify(req.body),
+  }
+  const response = await fetch(url, options)
+  const data = await response.json()
+  console.log(data)
+  res.status(200).json(data)
 })
 
 // Catch Express Errors

@@ -1,5 +1,5 @@
-const baseJoi = require('joi')
-const sanitizeHtml = require('sanitize-html')
+import baseJoi from 'joi'
+import sanitizeHtml from 'sanitize-html'
 
 const extension = joi => ({
   type: 'string',
@@ -24,7 +24,7 @@ const extension = joi => ({
 
 const Joi = baseJoi.extend(extension)
 
-module.exports.checkoutValidationSchema = Joi.object({
+export const checkoutValidationSchema = Joi.object({
   totalAmount: Joi.object({
     amount: Joi.string().required().escapeHTML(),
     currency: Joi.string().required().escapeHTML(),
