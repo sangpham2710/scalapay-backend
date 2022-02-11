@@ -1,7 +1,9 @@
 import express from 'express'
 import morgan from 'morgan'
-import fetch from 'node-fetch'
 import cors from 'cors'
+
+import checkoutRoutes from './routes/checkout.js'
+import productsRoutes from './routes/products.js'
 import { validateCheckout } from './middlewares/checkout.js'
 
 const app = express()
@@ -17,22 +19,8 @@ app.use(
   })
 )
 
-// POST route for checkout
-app.post('/api/v1/checkout', validateCheckout, async (req, res) => {
-  const url = 'https://staging.api.scalapay.com/v2/orders'
-  const options = {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      Authorization: 'Bearer qhtfs87hjnc12kkos',
-    },
-    body: JSON.stringify(req.body),
-  }
-  const response = await fetch(url, options)
-  const data = await response.json()
-  console.log(data)
-  res.status(200).json(data)
-})
+app.use('/api/v1/products', productsRoutes)
+app.use('/api/v1/checkout', checkoutRoutes)
 
 // Catch Express Errors
 app.use((err, req, res, next) => {
