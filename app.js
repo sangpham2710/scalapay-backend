@@ -5,7 +5,6 @@ import cors from 'cors'
 import checkoutRoutes from './routes/checkout.js'
 import productsRoutes from './routes/products.js'
 import categoriesRoutes from './routes/categories.js'
-import { validateCheckout } from './middlewares/checkout.js'
 
 const app = express()
 const port = process.env.PORT || 5000
