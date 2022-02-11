@@ -32,8 +32,11 @@ export const checkoutValidationSchema = Joi.object({
   consumer: Joi.object({
     givenNames: Joi.string().required().escapeHTML(),
     surname: Joi.string().required().escapeHTML(),
+    phoneNumber: Joi.string().escapeHTML(),
+    email: Joi.string().escapeHTML(),
   }).required(),
   shipping: Joi.object({
+    phoneNumber: Joi.string().escapeHTML(),
     countryCode: Joi.string().required().escapeHTML(),
     name: Joi.string().required().escapeHTML(),
     postcode: Joi.string().required().escapeHTML(),
@@ -42,6 +45,8 @@ export const checkoutValidationSchema = Joi.object({
   items: Joi.array()
     .items(
       Joi.object({
+        gtin: Joi.string().escapeHTML(),
+        brand: Joi.string().escapeHTML(),
         quantity: Joi.number().integer().required().min(0),
         price: Joi.object({
           amount: Joi.string().required().escapeHTML(),
@@ -53,4 +58,8 @@ export const checkoutValidationSchema = Joi.object({
       })
     )
     .required(),
+  merchant: Joi.object({
+    redirectCancelUrl: Joi.string().required().escapeHTML(),
+    redirectConfirmUrl: Joi.string().required().escapeHTML(),
+  }).required(),
 })

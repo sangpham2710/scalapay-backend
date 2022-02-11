@@ -1,8 +1,10 @@
 import express from 'express'
 import morgan from 'morgan'
+import cors from 'cors'
 
 import checkoutRoutes from './routes/checkout.js'
 import productsRoutes from './routes/products.js'
+import categoriesRoutes from './routes/categories.js'
 import { validateCheckout } from './middlewares/checkout.js'
 
 const app = express()
@@ -12,6 +14,13 @@ app.use(morgan('dev'))
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
+app.use(
+  cors({
+    origin: 'http://localhost:3000',
+  })
+)
+
+app.use('/api/v1/categories', categoriesRoutes)
 app.use('/api/v1/products', productsRoutes)
 app.use('/api/v1/checkout', checkoutRoutes)
 
