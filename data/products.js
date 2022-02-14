@@ -24,7 +24,7 @@
 //   product.productImage = `https://picsum.photos/id/${randRange(
 //     1,
 //     1000
-//   )}/200/300`
+//   )}/400/300`
 //   product.sku = randRange(1e7, 1e8 - 1)
 //   product.price = {
 //     amount: randRange(1, 1000),
@@ -41,7 +41,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/398/200/300',
+    productImage: 'https://picsum.photos/id/398/400/300',
     sku: 16786922,
     price: {
       amount: 1000,
@@ -55,7 +55,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/849/200/300',
+    productImage: 'https://picsum.photos/id/849/400/300',
     sku: 40516249,
     price: {
       amount: 83,
@@ -69,7 +69,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/530/200/300',
+    productImage: 'https://picsum.photos/id/530/400/300',
     sku: 42823165,
     price: {
       amount: 668,
@@ -83,7 +83,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/561/200/300',
+    productImage: 'https://picsum.photos/id/561/400/300',
     sku: 42093105,
     price: {
       amount: 167,
@@ -97,7 +97,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/943/200/300',
+    productImage: 'https://picsum.photos/id/943/400/300',
     sku: 53715987,
     price: {
       amount: 460,
@@ -111,7 +111,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/447/200/300',
+    productImage: 'https://picsum.photos/id/447/400/300',
     sku: 32251050,
     price: {
       amount: 874,
@@ -125,7 +125,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/271/200/300',
+    productImage: 'https://picsum.photos/id/271/400/300',
     sku: 76894780,
     price: {
       amount: 870,
@@ -139,7 +139,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/594/200/300',
+    productImage: 'https://picsum.photos/id/594/400/300',
     sku: 48825176,
     price: {
       amount: 245,
@@ -153,7 +153,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/174/200/300',
+    productImage: 'https://picsum.photos/id/174/400/300',
     sku: 58804259,
     price: {
       amount: 755,
@@ -167,7 +167,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/613/200/300',
+    productImage: 'https://picsum.photos/id/613/400/300',
     sku: 28966239,
     price: {
       amount: 214,
@@ -181,7 +181,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/111/200/300',
+    productImage: 'https://picsum.photos/id/111/400/300',
     sku: 23368907,
     price: {
       amount: 775,
@@ -195,7 +195,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/898/200/300',
+    productImage: 'https://picsum.photos/id/898/400/300',
     sku: 30215828,
     price: {
       amount: 720,
@@ -209,7 +209,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/132/200/300',
+    productImage: 'https://picsum.photos/id/132/400/300',
     sku: 25193024,
     price: {
       amount: 90,
@@ -223,7 +223,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/529/200/300',
+    productImage: 'https://picsum.photos/id/529/400/300',
     sku: 62616882,
     price: {
       amount: 32,
@@ -237,7 +237,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/383/200/300',
+    productImage: 'https://picsum.photos/id/383/400/300',
     sku: 39158330,
     price: {
       amount: 861,
@@ -251,7 +251,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/189/200/300',
+    productImage: 'https://picsum.photos/id/189/400/300',
     sku: 41404995,
     price: {
       amount: 60,
@@ -265,7 +265,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/43/200/300',
+    productImage: 'https://picsum.photos/id/43/400/300',
     sku: 33205273,
     price: {
       amount: 748,
@@ -279,7 +279,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/282/200/300',
+    productImage: 'https://picsum.photos/id/282/400/300',
     sku: 79853226,
     price: {
       amount: 715,
@@ -293,7 +293,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/820/200/300',
+    productImage: 'https://picsum.photos/id/820/400/300',
     sku: 77449555,
     price: {
       amount: 266,
@@ -307,7 +307,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/917/200/300',
+    productImage: 'https://picsum.photos/id/917/400/300',
     sku: 92237393,
     price: {
       amount: 492,
@@ -321,7 +321,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/766/200/300',
+    productImage: 'https://picsum.photos/id/766/400/300',
     sku: 15963443,
     price: {
       amount: 19,
@@ -335,7 +335,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/806/200/300',
+    productImage: 'https://picsum.photos/id/806/400/300',
     sku: 75338016,
     price: {
       amount: 405,
@@ -349,7 +349,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/345/200/300',
+    productImage: 'https://picsum.photos/id/345/400/300',
     sku: 98005076,
     price: {
       amount: 295,
@@ -363,7 +363,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/241/200/300',
+    productImage: 'https://picsum.photos/id/241/400/300',
     sku: 74561178,
     price: {
       amount: 267,
@@ -377,7 +377,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/14/200/300',
+    productImage: 'https://picsum.photos/id/14/400/300',
     sku: 21631509,
     price: {
       amount: 652,
@@ -391,7 +391,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/962/200/300',
+    productImage: 'https://picsum.photos/id/962/400/300',
     sku: 67919400,
     price: {
       amount: 401,
@@ -405,7 +405,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/164/200/300',
+    productImage: 'https://picsum.photos/id/164/400/300',
     sku: 49623270,
     price: {
       amount: 515,
@@ -419,7 +419,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/776/200/300',
+    productImage: 'https://picsum.photos/id/776/400/300',
     sku: 29325937,
     price: {
       amount: 94,
@@ -433,7 +433,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/893/200/300',
+    productImage: 'https://picsum.photos/id/893/400/300',
     sku: 12830402,
     price: {
       amount: 821,
@@ -447,7 +447,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/673/200/300',
+    productImage: 'https://picsum.photos/id/673/400/300',
     sku: 44241613,
     price: {
       amount: 262,
@@ -461,7 +461,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/837/200/300',
+    productImage: 'https://picsum.photos/id/837/400/300',
     sku: 50973035,
     price: {
       amount: 375,
@@ -475,7 +475,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/648/200/300',
+    productImage: 'https://picsum.photos/id/648/400/300',
     sku: 11369019,
     price: {
       amount: 877,
@@ -489,7 +489,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/561/200/300',
+    productImage: 'https://picsum.photos/id/561/400/300',
     sku: 57668594,
     price: {
       amount: 253,
@@ -503,7 +503,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/50/200/300',
+    productImage: 'https://picsum.photos/id/50/400/300',
     sku: 61032250,
     price: {
       amount: 62,
@@ -517,7 +517,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/899/200/300',
+    productImage: 'https://picsum.photos/id/899/400/300',
     sku: 83757603,
     price: {
       amount: 62,
@@ -531,7 +531,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/909/200/300',
+    productImage: 'https://picsum.photos/id/909/400/300',
     sku: 91986162,
     price: {
       amount: 350,
@@ -545,7 +545,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/787/200/300',
+    productImage: 'https://picsum.photos/id/787/400/300',
     sku: 29820773,
     price: {
       amount: 322,
@@ -559,7 +559,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/742/200/300',
+    productImage: 'https://picsum.photos/id/742/400/300',
     sku: 63965617,
     price: {
       amount: 707,
@@ -573,7 +573,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/8/200/300',
+    productImage: 'https://picsum.photos/id/8/400/300',
     sku: 67998182,
     price: {
       amount: 551,
@@ -587,7 +587,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/277/200/300',
+    productImage: 'https://picsum.photos/id/277/400/300',
     sku: 63500535,
     price: {
       amount: 422,
@@ -601,7 +601,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/684/200/300',
+    productImage: 'https://picsum.photos/id/684/400/300',
     sku: 31552014,
     price: {
       amount: 854,
@@ -615,7 +615,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/268/200/300',
+    productImage: 'https://picsum.photos/id/268/400/300',
     sku: 78895999,
     price: {
       amount: 817,
@@ -629,7 +629,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/980/200/300',
+    productImage: 'https://picsum.photos/id/980/400/300',
     sku: 42917752,
     price: {
       amount: 429,
@@ -643,7 +643,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/75/200/300',
+    productImage: 'https://picsum.photos/id/75/400/300',
     sku: 52813012,
     price: {
       amount: 428,
@@ -657,7 +657,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/678/200/300',
+    productImage: 'https://picsum.photos/id/678/400/300',
     sku: 87402580,
     price: {
       amount: 272,
@@ -671,7 +671,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/532/200/300',
+    productImage: 'https://picsum.photos/id/532/400/300',
     sku: 20176819,
     price: {
       amount: 649,
@@ -685,7 +685,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/147/200/300',
+    productImage: 'https://picsum.photos/id/147/400/300',
     sku: 58498007,
     price: {
       amount: 798,
@@ -699,7 +699,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/849/200/300',
+    productImage: 'https://picsum.photos/id/849/400/300',
     sku: 63443647,
     price: {
       amount: 870,
@@ -713,7 +713,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/79/200/300',
+    productImage: 'https://picsum.photos/id/79/400/300',
     sku: 18492273,
     price: {
       amount: 288,
@@ -727,7 +727,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/383/200/300',
+    productImage: 'https://picsum.photos/id/383/400/300',
     sku: 83933280,
     price: {
       amount: 914,
@@ -741,7 +741,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/257/200/300',
+    productImage: 'https://picsum.photos/id/257/400/300',
     sku: 46078067,
     price: {
       amount: 535,
@@ -755,7 +755,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/237/200/300',
+    productImage: 'https://picsum.photos/id/237/400/300',
     sku: 47565439,
     price: {
       amount: 447,
@@ -769,7 +769,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/380/200/300',
+    productImage: 'https://picsum.photos/id/380/400/300',
     sku: 70840521,
     price: {
       amount: 141,
@@ -783,7 +783,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/596/200/300',
+    productImage: 'https://picsum.photos/id/596/400/300',
     sku: 29049234,
     price: {
       amount: 524,
@@ -797,7 +797,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/490/200/300',
+    productImage: 'https://picsum.photos/id/490/400/300',
     sku: 57010749,
     price: {
       amount: 13,
@@ -811,7 +811,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/603/200/300',
+    productImage: 'https://picsum.photos/id/603/400/300',
     sku: 77897208,
     price: {
       amount: 481,
@@ -825,7 +825,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/99/200/300',
+    productImage: 'https://picsum.photos/id/99/400/300',
     sku: 55802895,
     price: {
       amount: 380,
@@ -839,7 +839,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/607/200/300',
+    productImage: 'https://picsum.photos/id/607/400/300',
     sku: 50340420,
     price: {
       amount: 242,
@@ -853,7 +853,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/828/200/300',
+    productImage: 'https://picsum.photos/id/828/400/300',
     sku: 88996199,
     price: {
       amount: 233,
@@ -867,7 +867,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/155/200/300',
+    productImage: 'https://picsum.photos/id/155/400/300',
     sku: 46608429,
     price: {
       amount: 363,
@@ -881,7 +881,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/33/200/300',
+    productImage: 'https://picsum.photos/id/33/400/300',
     sku: 82657245,
     price: {
       amount: 272,
@@ -895,7 +895,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/398/200/300',
+    productImage: 'https://picsum.photos/id/398/400/300',
     sku: 44063792,
     price: {
       amount: 846,
@@ -909,7 +909,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/77/200/300',
+    productImage: 'https://picsum.photos/id/77/400/300',
     sku: 13452420,
     price: {
       amount: 415,
@@ -923,7 +923,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/939/200/300',
+    productImage: 'https://picsum.photos/id/939/400/300',
     sku: 84993735,
     price: {
       amount: 179,
@@ -937,7 +937,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/767/200/300',
+    productImage: 'https://picsum.photos/id/767/400/300',
     sku: 57387902,
     price: {
       amount: 806,
@@ -951,7 +951,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/652/200/300',
+    productImage: 'https://picsum.photos/id/652/400/300',
     sku: 21567424,
     price: {
       amount: 437,
@@ -965,7 +965,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/764/200/300',
+    productImage: 'https://picsum.photos/id/764/400/300',
     sku: 54171229,
     price: {
       amount: 759,
@@ -979,7 +979,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/564/200/300',
+    productImage: 'https://picsum.photos/id/564/400/300',
     sku: 93636815,
     price: {
       amount: 673,
@@ -993,7 +993,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/958/200/300',
+    productImage: 'https://picsum.photos/id/958/400/300',
     sku: 38487673,
     price: {
       amount: 960,
@@ -1007,7 +1007,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/444/200/300',
+    productImage: 'https://picsum.photos/id/444/400/300',
     sku: 33540252,
     price: {
       amount: 269,
@@ -1021,7 +1021,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/767/200/300',
+    productImage: 'https://picsum.photos/id/767/400/300',
     sku: 60603376,
     price: {
       amount: 955,
@@ -1035,7 +1035,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/146/200/300',
+    productImage: 'https://picsum.photos/id/146/400/300',
     sku: 54554045,
     price: {
       amount: 637,
@@ -1049,7 +1049,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/153/200/300',
+    productImage: 'https://picsum.photos/id/153/400/300',
     sku: 55106435,
     price: {
       amount: 985,
@@ -1063,7 +1063,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/354/200/300',
+    productImage: 'https://picsum.photos/id/354/400/300',
     sku: 30689861,
     price: {
       amount: 845,
@@ -1077,7 +1077,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/771/200/300',
+    productImage: 'https://picsum.photos/id/771/400/300',
     sku: 97677279,
     price: {
       amount: 434,
@@ -1091,7 +1091,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/714/200/300',
+    productImage: 'https://picsum.photos/id/714/400/300',
     sku: 12010985,
     price: {
       amount: 28,
@@ -1105,7 +1105,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/62/200/300',
+    productImage: 'https://picsum.photos/id/62/400/300',
     sku: 99533110,
     price: {
       amount: 922,
@@ -1119,7 +1119,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/40/200/300',
+    productImage: 'https://picsum.photos/id/40/400/300',
     sku: 76787377,
     price: {
       amount: 589,
@@ -1133,7 +1133,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/414/200/300',
+    productImage: 'https://picsum.photos/id/414/400/300',
     sku: 85851587,
     price: {
       amount: 732,
@@ -1147,7 +1147,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/101/200/300',
+    productImage: 'https://picsum.photos/id/101/400/300',
     sku: 20711382,
     price: {
       amount: 632,
@@ -1161,7 +1161,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/184/200/300',
+    productImage: 'https://picsum.photos/id/184/400/300',
     sku: 84455301,
     price: {
       amount: 88,
@@ -1175,7 +1175,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/22/200/300',
+    productImage: 'https://picsum.photos/id/22/400/300',
     sku: 87275753,
     price: {
       amount: 11,
@@ -1189,7 +1189,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/577/200/300',
+    productImage: 'https://picsum.photos/id/577/400/300',
     sku: 20520906,
     price: {
       amount: 259,
@@ -1203,7 +1203,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/206/200/300',
+    productImage: 'https://picsum.photos/id/206/400/300',
     sku: 18497885,
     price: {
       amount: 546,
@@ -1217,7 +1217,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/721/200/300',
+    productImage: 'https://picsum.photos/id/721/400/300',
     sku: 52998604,
     price: {
       amount: 56,
@@ -1231,7 +1231,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/767/200/300',
+    productImage: 'https://picsum.photos/id/767/400/300',
     sku: 76983931,
     price: {
       amount: 779,
@@ -1245,7 +1245,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/35/200/300',
+    productImage: 'https://picsum.photos/id/35/400/300',
     sku: 59584728,
     price: {
       amount: 702,
@@ -1259,7 +1259,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/68/200/300',
+    productImage: 'https://picsum.photos/id/68/400/300',
     sku: 26812568,
     price: {
       amount: 705,
@@ -1273,7 +1273,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/725/200/300',
+    productImage: 'https://picsum.photos/id/725/400/300',
     sku: 33652250,
     price: {
       amount: 413,
@@ -1287,7 +1287,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/156/200/300',
+    productImage: 'https://picsum.photos/id/156/400/300',
     sku: 13879503,
     price: {
       amount: 527,
@@ -1301,7 +1301,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/643/200/300',
+    productImage: 'https://picsum.photos/id/643/400/300',
     sku: 70516384,
     price: {
       amount: 212,
@@ -1315,7 +1315,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/96/200/300',
+    productImage: 'https://picsum.photos/id/96/400/300',
     sku: 71979533,
     price: {
       amount: 748,
@@ -1329,7 +1329,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/623/200/300',
+    productImage: 'https://picsum.photos/id/623/400/300',
     sku: 56428113,
     price: {
       amount: 224,
@@ -1343,7 +1343,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/696/200/300',
+    productImage: 'https://picsum.photos/id/696/400/300',
     sku: 96538626,
     price: {
       amount: 886,
@@ -1357,7 +1357,7 @@ export default [
     brand: 'Arrow Shirts',
     description:
       "Arrow is one of the oldest brands when it comes to men's shirts and is owned by the PVH Company",
-    productImage: 'https://picsum.photos/id/241/200/300',
+    productImage: 'https://picsum.photos/id/241/400/300',
     sku: 58346159,
     price: {
       amount: 784,
@@ -1371,7 +1371,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/301/200/300',
+    productImage: 'https://picsum.photos/id/301/400/300',
     sku: 27902102,
     price: {
       amount: 974,
@@ -1385,7 +1385,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/272/200/300',
+    productImage: 'https://picsum.photos/id/272/400/300',
     sku: 46152033,
     price: {
       amount: 736,
@@ -1399,7 +1399,7 @@ export default [
     brand: 'Wrangler',
     description:
       'Wrangler is often described as a cool jeans brand because of superb fitting and stylish looks. It is designed by integrating both modern trends and vintage fashion. The in-demand jeans brand carries a “W” signature on its back pocket that gives it an individual, original and classy look.',
-    productImage: 'https://picsum.photos/id/381/200/300',
+    productImage: 'https://picsum.photos/id/381/400/300',
     sku: 12339429,
     price: {
       amount: 29,
@@ -1413,7 +1413,7 @@ export default [
     brand: 'Levi’s',
     description:
       'Levi’s is one of the most popular and top-selling jeans brand in the world. This veteran jeans brand has been able to create a distinctive place of its own in the merchandise industry as people associate it with a definite status symbol.',
-    productImage: 'https://picsum.photos/id/891/200/300',
+    productImage: 'https://picsum.photos/id/891/400/300',
     sku: 20312711,
     price: {
       amount: 554,
@@ -1427,7 +1427,7 @@ export default [
     brand: 'Peter England Shirts',
     description:
       'Peter England is one of the largest menswear brands in India known for its standardized fits, fashionable styles and superior quality. Peter England’s shirts are a blend of comfort and style that makes it a top men’s shirt brand.',
-    productImage: 'https://picsum.photos/id/277/200/300',
+    productImage: 'https://picsum.photos/id/277/400/300',
     sku: 26243834,
     price: {
       amount: 850,
