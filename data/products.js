@@ -28,7 +28,7 @@
 //   product.sku = randRange(1e7, 1e8 - 1)
 //   product.price = {
 //     amount: randRange(1, 1000),
-//     currency: 'USD',
+//     currency: 'EUR',
 //   }
 //   product.category = categories[randRange(0, categories.length - 1)]
 //   // console.log(product)
@@ -45,7 +45,7 @@ export default [
     sku: 16786922,
     price: {
       amount: 1000,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -59,7 +59,7 @@ export default [
     sku: 40516249,
     price: {
       amount: 83,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -73,7 +73,7 @@ export default [
     sku: 42823165,
     price: {
       amount: 668,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -87,7 +87,7 @@ export default [
     sku: 42093105,
     price: {
       amount: 167,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -101,7 +101,7 @@ export default [
     sku: 53715987,
     price: {
       amount: 460,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -115,7 +115,7 @@ export default [
     sku: 32251050,
     price: {
       amount: 874,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -129,7 +129,7 @@ export default [
     sku: 76894780,
     price: {
       amount: 870,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -143,7 +143,7 @@ export default [
     sku: 48825176,
     price: {
       amount: 245,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -157,7 +157,7 @@ export default [
     sku: 58804259,
     price: {
       amount: 755,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -171,7 +171,7 @@ export default [
     sku: 28966239,
     price: {
       amount: 214,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -185,7 +185,7 @@ export default [
     sku: 23368907,
     price: {
       amount: 775,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -199,7 +199,7 @@ export default [
     sku: 30215828,
     price: {
       amount: 720,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -213,7 +213,7 @@ export default [
     sku: 25193024,
     price: {
       amount: 90,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -227,7 +227,7 @@ export default [
     sku: 62616882,
     price: {
       amount: 32,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -241,7 +241,7 @@ export default [
     sku: 39158330,
     price: {
       amount: 861,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -255,7 +255,7 @@ export default [
     sku: 41404995,
     price: {
       amount: 60,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -269,7 +269,7 @@ export default [
     sku: 33205273,
     price: {
       amount: 748,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -283,7 +283,7 @@ export default [
     sku: 79853226,
     price: {
       amount: 715,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -297,7 +297,7 @@ export default [
     sku: 77449555,
     price: {
       amount: 266,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -311,7 +311,7 @@ export default [
     sku: 92237393,
     price: {
       amount: 492,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -325,7 +325,7 @@ export default [
     sku: 15963443,
     price: {
       amount: 19,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -339,7 +339,7 @@ export default [
     sku: 75338016,
     price: {
       amount: 405,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -353,7 +353,7 @@ export default [
     sku: 98005076,
     price: {
       amount: 295,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -367,7 +367,7 @@ export default [
     sku: 74561178,
     price: {
       amount: 267,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -381,7 +381,7 @@ export default [
     sku: 21631509,
     price: {
       amount: 652,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -395,7 +395,7 @@ export default [
     sku: 67919400,
     price: {
       amount: 401,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -409,7 +409,7 @@ export default [
     sku: 49623270,
     price: {
       amount: 515,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -423,7 +423,7 @@ export default [
     sku: 29325937,
     price: {
       amount: 94,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -437,7 +437,7 @@ export default [
     sku: 12830402,
     price: {
       amount: 821,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -451,7 +451,7 @@ export default [
     sku: 44241613,
     price: {
       amount: 262,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -465,7 +465,7 @@ export default [
     sku: 50973035,
     price: {
       amount: 375,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -479,7 +479,7 @@ export default [
     sku: 11369019,
     price: {
       amount: 877,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -493,7 +493,7 @@ export default [
     sku: 57668594,
     price: {
       amount: 253,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -507,7 +507,7 @@ export default [
     sku: 61032250,
     price: {
       amount: 62,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -521,7 +521,7 @@ export default [
     sku: 83757603,
     price: {
       amount: 62,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -535,7 +535,7 @@ export default [
     sku: 91986162,
     price: {
       amount: 350,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -549,7 +549,7 @@ export default [
     sku: 29820773,
     price: {
       amount: 322,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -563,7 +563,7 @@ export default [
     sku: 63965617,
     price: {
       amount: 707,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -577,7 +577,7 @@ export default [
     sku: 67998182,
     price: {
       amount: 551,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -591,7 +591,7 @@ export default [
     sku: 63500535,
     price: {
       amount: 422,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -605,7 +605,7 @@ export default [
     sku: 31552014,
     price: {
       amount: 854,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -619,7 +619,7 @@ export default [
     sku: 78895999,
     price: {
       amount: 817,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -633,7 +633,7 @@ export default [
     sku: 42917752,
     price: {
       amount: 429,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -647,7 +647,7 @@ export default [
     sku: 52813012,
     price: {
       amount: 428,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -661,7 +661,7 @@ export default [
     sku: 87402580,
     price: {
       amount: 272,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -675,7 +675,7 @@ export default [
     sku: 20176819,
     price: {
       amount: 649,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -689,7 +689,7 @@ export default [
     sku: 58498007,
     price: {
       amount: 798,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -703,7 +703,7 @@ export default [
     sku: 63443647,
     price: {
       amount: 870,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -717,7 +717,7 @@ export default [
     sku: 18492273,
     price: {
       amount: 288,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -731,7 +731,7 @@ export default [
     sku: 83933280,
     price: {
       amount: 914,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -745,7 +745,7 @@ export default [
     sku: 46078067,
     price: {
       amount: 535,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -759,7 +759,7 @@ export default [
     sku: 47565439,
     price: {
       amount: 447,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -773,7 +773,7 @@ export default [
     sku: 70840521,
     price: {
       amount: 141,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -787,7 +787,7 @@ export default [
     sku: 29049234,
     price: {
       amount: 524,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -801,7 +801,7 @@ export default [
     sku: 57010749,
     price: {
       amount: 13,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -815,7 +815,7 @@ export default [
     sku: 77897208,
     price: {
       amount: 481,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -829,7 +829,7 @@ export default [
     sku: 55802895,
     price: {
       amount: 380,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -843,7 +843,7 @@ export default [
     sku: 50340420,
     price: {
       amount: 242,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -857,7 +857,7 @@ export default [
     sku: 88996199,
     price: {
       amount: 233,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -871,7 +871,7 @@ export default [
     sku: 46608429,
     price: {
       amount: 363,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -885,7 +885,7 @@ export default [
     sku: 82657245,
     price: {
       amount: 272,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -899,7 +899,7 @@ export default [
     sku: 44063792,
     price: {
       amount: 846,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -913,7 +913,7 @@ export default [
     sku: 13452420,
     price: {
       amount: 415,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -927,7 +927,7 @@ export default [
     sku: 84993735,
     price: {
       amount: 179,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -941,7 +941,7 @@ export default [
     sku: 57387902,
     price: {
       amount: 806,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -955,7 +955,7 @@ export default [
     sku: 21567424,
     price: {
       amount: 437,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -969,7 +969,7 @@ export default [
     sku: 54171229,
     price: {
       amount: 759,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -983,7 +983,7 @@ export default [
     sku: 93636815,
     price: {
       amount: 673,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -997,7 +997,7 @@ export default [
     sku: 38487673,
     price: {
       amount: 960,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1011,7 +1011,7 @@ export default [
     sku: 33540252,
     price: {
       amount: 269,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1025,7 +1025,7 @@ export default [
     sku: 60603376,
     price: {
       amount: 955,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1039,7 +1039,7 @@ export default [
     sku: 54554045,
     price: {
       amount: 637,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1053,7 +1053,7 @@ export default [
     sku: 55106435,
     price: {
       amount: 985,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1067,7 +1067,7 @@ export default [
     sku: 30689861,
     price: {
       amount: 845,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1081,7 +1081,7 @@ export default [
     sku: 97677279,
     price: {
       amount: 434,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1095,7 +1095,7 @@ export default [
     sku: 12010985,
     price: {
       amount: 28,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1109,7 +1109,7 @@ export default [
     sku: 99533110,
     price: {
       amount: 922,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1123,7 +1123,7 @@ export default [
     sku: 76787377,
     price: {
       amount: 589,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1137,7 +1137,7 @@ export default [
     sku: 85851587,
     price: {
       amount: 732,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1151,7 +1151,7 @@ export default [
     sku: 20711382,
     price: {
       amount: 632,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1165,7 +1165,7 @@ export default [
     sku: 84455301,
     price: {
       amount: 88,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1179,7 +1179,7 @@ export default [
     sku: 87275753,
     price: {
       amount: 11,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1193,7 +1193,7 @@ export default [
     sku: 20520906,
     price: {
       amount: 259,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1207,7 +1207,7 @@ export default [
     sku: 18497885,
     price: {
       amount: 546,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1221,7 +1221,7 @@ export default [
     sku: 52998604,
     price: {
       amount: 56,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1235,7 +1235,7 @@ export default [
     sku: 76983931,
     price: {
       amount: 779,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1249,7 +1249,7 @@ export default [
     sku: 59584728,
     price: {
       amount: 702,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1263,7 +1263,7 @@ export default [
     sku: 26812568,
     price: {
       amount: 705,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1277,7 +1277,7 @@ export default [
     sku: 33652250,
     price: {
       amount: 413,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1291,7 +1291,7 @@ export default [
     sku: 13879503,
     price: {
       amount: 527,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1305,7 +1305,7 @@ export default [
     sku: 70516384,
     price: {
       amount: 212,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1319,7 +1319,7 @@ export default [
     sku: 71979533,
     price: {
       amount: 748,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1333,7 +1333,7 @@ export default [
     sku: 56428113,
     price: {
       amount: 224,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1347,7 +1347,7 @@ export default [
     sku: 96538626,
     price: {
       amount: 886,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1361,7 +1361,7 @@ export default [
     sku: 58346159,
     price: {
       amount: 784,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1375,7 +1375,7 @@ export default [
     sku: 27902102,
     price: {
       amount: 974,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1389,7 +1389,7 @@ export default [
     sku: 46152033,
     price: {
       amount: 736,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
@@ -1403,7 +1403,7 @@ export default [
     sku: 12339429,
     price: {
       amount: 29,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1417,7 +1417,7 @@ export default [
     sku: 20312711,
     price: {
       amount: 554,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'Pants',
   },
@@ -1431,7 +1431,7 @@ export default [
     sku: 26243834,
     price: {
       amount: 850,
-      currency: 'USD',
+      currency: 'EUR',
     },
     category: 'T-Shirt',
   },
